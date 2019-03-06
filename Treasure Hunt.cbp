@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Treasure Hunt" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Treasure Hunt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Treasure Hunt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Harta.h" />
+		<Unit filename="include/Inutilul.h" />
+		<Unit filename="include/Nebun.h" />
+		<Unit filename="include/Regele.h" />
+		<Unit filename="include/Salahor.h" />
+		<Unit filename="include/Tura.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Harta.cpp" />
+		<Unit filename="src/Inutilul.cpp" />
+		<Unit filename="src/Nebun.cpp" />
+		<Unit filename="src/Regele.cpp" />
+		<Unit filename="src/Salahor.cpp" />
+		<Unit filename="src/Tura.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1523793429 source:c:\users\david\desktop\school\programare orientata pe obiecte\proiect 2\treasure hunt\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"Harta.h"
+
+1523792674 c:\users\david\desktop\school\programare orientata pe obiecte\proiect 2\treasure hunt\include\harta.h
+	"Salahor.h"
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+
+1523699092 source:c:\users\david\desktop\school\programare orientata pe obiecte\proiect 2\treasure hunt\src\cautator.cpp
+	"Cautator.h"
+
+1523699092 c:\users\david\desktop\school\programare orientata pe obiecte\proiect 2\treasure hunt\include\cautator.h
+
+1523805070 source:c:\users\david\desktop\school\programare orientata pe obiecte\proiect 2\treasure hunt\src\harta.cpp
+	"Harta.h"
+
+1523719270 source:c:\users\david\desktop\school\programare orientata pe obiecte\proiect 2\treasure hunt\src\salahor.cpp
+	"Salahor.h"
+
+1523719270 c:\users\david\desktop\school\programare orientata pe obiecte\proiect 2\treasure hunt\include\salahor.h
+	<iostream>
+	<stdbool.h>
+
+1523782629 source:c:\users\student.lab221a-6\desktop\proiect 2\treasure hunt\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"Harta.h"
+
+1524066606 c:\users\student.lab221a-6\desktop\proiect 2\treasure hunt\include\harta.h
+	"Salahor.h"
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+
+1524067551 c:\users\student.lab221a-6\desktop\proiect 2\treasure hunt\include\salahor.h
+	<iostream>
+	<stdbool.h>
+
+1523708470 source:c:\users\student.lab221a-6\desktop\proiect 2\treasure hunt\src\salahor.cpp
+	"Salahor.h"
+
+1524067262 source:c:\users\student.lab221a-6\desktop\proiect 2\treasure hunt\src\harta.cpp
+	"Harta.h"
+
+1523782629 source:c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"Harta.h"
+
+1525005868 c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\include\harta.h
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<vector>
+	"Salahor.h"
+	"Nebun.h"
+	"Tura.h"
+	"Regele.h"
+	"Inutilul.h"
+
+1525006285 c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\include\salahor.h
+	<stdbool.h>
+	<time.h>
+	<vector>
+
+1525005807 source:c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\src\salahor.cpp
+	"Salahor.h"
+	"Harta.h"
+
+1525006285 source:c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\src\harta.cpp
+	"Harta.h"
+
+1525006285 source:c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\src\nebun.cpp
+	"Nebun.h"
+	"Harta.h"
+
+1525006285 c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\include\nebun.h
+	"Salahor.h"
+
+1525006285 c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\include\tura.h
+	"Salahor.h"
+
+1525006285 source:c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\src\tura.cpp
+	"Tura.h"
+	"Harta.h"
+
+1525006285 c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\include\regele.h
+	"Salahor.h"
+
+1525006289 source:c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\src\regele.cpp
+	"Regele.h"
+	"Harta.h"
+
+1525006285 c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\include\inutilul.h
+	"Salahor.h"
+
+1525006285 source:c:\users\david\desktop\school\programare orientata pe obiecte\treasure hunt\src\inutilul.cpp
+	"Inutilul.h"
+	"Harta.h"
+
+1551896408 source:c:\users\david\desktop\school\anul 1\sem 2\programare orientata pe obiecte\proiect treasure hunt\treasure hunt\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"Harta.h"
+
+1551896408 c:\users\david\desktop\school\anul 1\sem 2\programare orientata pe obiecte\proiect treasure hunt\treasure hunt\include\harta.h
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<vector>
+	"Salahor.h"
+	"Nebun.h"
+	"Tura.h"
+	"Regele.h"
+	"Inutilul.h"
+
+1551908404 c:\users\david\desktop\school\anul 1\sem 2\programare orientata pe obiecte\proiect treasure hunt\treasure hunt\include\salahor.h
+	<stdbool.h>
+	<time.h>
+	<vector>
+
+1551908404 c:\users\david\desktop\school\anul 1\sem 2\programare orientata pe obiecte\proiect treasure hunt\treasure hunt\include\nebun.h
+	"Salahor.h"
+
+1525002685 c:\users\david\desktop\school\anul 1\sem 2\programare orientata pe obiecte\proiect treasure hunt\treasure hunt\include\tura.h
+	"Salahor.h"
+
+1551908404 c:\users\david\desktop\school\anul 1\sem 2\programare orientata pe obiecte\proiect treasure hunt\treasure hunt\include\regele.h
+	"Salahor.h"
+
+1551908404 c:\users\david\desktop\school\anul 1\sem 2\programare orientata pe obiecte\proiect treasure hunt\treasure hunt\include\inutilul.h
+	"Salahor.h"
+
